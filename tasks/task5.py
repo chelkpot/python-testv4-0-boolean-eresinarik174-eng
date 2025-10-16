@@ -2,9 +2,9 @@
 
 def solve():
 # Ниже пишите решение задачи
-n = int(input())
-result = n >= 10 and n <= 99
-print(result)
+    n = int(input())
+    result = n >= 10 and n <= 99
+    print(result)
    
    
 # Код ниже не трогать! он нужен для тестов
